@@ -8,7 +8,6 @@ Ninja 仅供学习参考使用，请于下载后的 24 小时内删除，本人�
 
 Ninja 仅支持 qinglong 2.8+
 
-[TG 频道](https://t.me/joinchat/sHKuteb_lfdjNmZl)
 
 ## 特性
 
